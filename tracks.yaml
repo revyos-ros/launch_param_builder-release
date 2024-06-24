@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/launch_param_builder-release
 tracks:
   foxy:
     actions:
